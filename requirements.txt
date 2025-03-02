@@ -1,0 +1,8 @@
+streamlit
+openai
+langchain
+pdfplumber
+pillow
+langchain_community
+streamlit==1.31.1
+langchain-openai==0.3.6
